@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "name": "coders-conduit-lambda-function",
+    "handler": "lambda_function.lambda_handler"
+  },
+  "ccbuild": {
+    "sources-root": "src",
+    "test-root": "test",
+    "dependencies-root": "venv/Lib/site-packages"
+  }
+}

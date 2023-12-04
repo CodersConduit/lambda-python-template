@@ -1,0 +1,6 @@
+.idea/
+venv
+ccbuild
+__pycache__/
+*.py[cod]
+*.iml
